@@ -10,79 +10,8 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e1360c0-0376-4f1f-bd0b-038a9b10beaf" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Announcement_Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Attractions_Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Comments_Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/GuangLi_Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/LeaderboardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Message_Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Staff_Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Tourists_Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/until/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/until/jwtUntil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Announcement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Attractions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/GuangLi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Tourists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Interceptor/JWTInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/JingQuApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Announcement_service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Attractions_service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Comments_service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/GuangLi_service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/LeaderboardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Message_service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/RedisSetService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Announcement_serviceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Attractions_serviceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Comments_serviceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/GuangLi_serviceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Message_serviceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Staff_serviceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Tourist_serivceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Staff_service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Tourists_service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/peizhi/InterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/peizhi/RedisTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Announcement_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Attractions_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Attractions_pojo_comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Attractions_pojo_likes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Comments_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Comments_pojo_insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Comments_pojo_personal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/GuangLi_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Message_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Message_pojo_insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Message_pojo_personal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Staff_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Staff_pojo_insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Sub_comments_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Sub_comments_pojo_insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Tourists_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/YourTableName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/redis/DataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/resources/TouristsDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingQu/src/test/java/com/example/jingqu/JingQuApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="0e1360c0-0376-4f1f-bd0b-038a9b10beaf" name="更改" comment="111">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,8 +237,23 @@
       <workItem from="1718697531777" duration="1300000" />
       <workItem from="1718860170983" duration="3429000" />
       <workItem from="1720018279630" duration="1570000" />
-      <workItem from="1720180456480" duration="3494000" />
+      <workItem from="1720180456480" duration="4168000" />
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1720184412395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720184412395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="111">
+      <created>1720184602411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720184602411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,11 +267,42 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
