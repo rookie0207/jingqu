@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="SpringBoot_Vue" />
+      <module name="JingQu" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e1360c0-0376-4f1f-bd0b-038a9b10beaf" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Announcement_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Attractions_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Comments_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/GuangLi_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/LeaderboardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Message_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Staff_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/Tourists_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/until/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Controller/until/jwtUntil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Announcement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Attractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/GuangLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Dao/Tourists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Interceptor/JWTInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/JingQuApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Announcement_service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Attractions_service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Comments_service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/GuangLi_service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/LeaderboardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Message_service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/RedisSetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Announcement_serviceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Attractions_serviceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Comments_serviceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/GuangLi_serviceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Message_serviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Staff_serviceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/ServiceImpl/Tourist_serivceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Staff_service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/Service/Tourists_service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/peizhi/InterceptorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/peizhi/RedisTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Announcement_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Attractions_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Attractions_pojo_comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Attractions_pojo_likes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Comments_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Comments_pojo_insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Comments_pojo_personal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/GuangLi_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Message_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Message_pojo_insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Message_pojo_personal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Staff_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Staff_pojo_insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Sub_comments_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Sub_comments_pojo_insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/Tourists_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/pojo/YourTableName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/java/com/example/jingqu/redis/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/resources/TouristsDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JingQu/src/test/java/com/example/jingqu/JingQuApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Vue Single File Component" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JingQu" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2Y3dIef3pBvbtWcJuqGw9naOVYS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/idea/SpringBoot/vue",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "bb9775d1df76ef51887a1fc34dd0ca61",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\SpringBoot_Vue\JingQu\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JingQuApplication">
+    <configuration name="JingQuApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JingQu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jingqu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.jingqu" />
+      <option name="MAIN_CLASS_NAME" value="com.example.jingqu.JingQuApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JingQuApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JingQu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jingqu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.jingqu" />
+      <option name="MAIN_CLASS_NAME" value="com.example.jingqu.JingQuApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JingQuApplicationTests.moapao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JingQu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jingqu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.jingqu" />
+      <option name="MAIN_CLASS_NAME" value="com.example.jingqu.JingQuApplicationTests" />
+      <option name="METHOD_NAME" value="moapao(int[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="JingQuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="JingQu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.jingqu.JingQuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.JingQuApplication" />
+        <item itemvalue="JUnit.JingQuApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.JingQuApplicationTests.moapao" />
+        <item itemvalue="JUnit.JingQuApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0e1360c0-0376-4f1f-bd0b-038a9b10beaf" name="更改" comment="" />
+      <created>1699758120572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699758120572</updated>
+      <workItem from="1699758122939" duration="7914000" />
+      <workItem from="1699844748872" duration="21561000" />
+      <workItem from="1699943764002" duration="14897000" />
+      <workItem from="1700031408443" duration="12756000" />
+      <workItem from="1700115528696" duration="13508000" />
+      <workItem from="1700202050584" duration="3914000" />
+      <workItem from="1700205992822" duration="5577000" />
+      <workItem from="1700289184929" duration="2033000" />
+      <workItem from="1700463697744" duration="2153000" />
+      <workItem from="1700719111905" duration="4221000" />
+      <workItem from="1700805731712" duration="3001000" />
+      <workItem from="1700891001071" duration="707000" />
+      <workItem from="1701525678976" duration="63000" />
+      <workItem from="1701588789734" duration="610000" />
+      <workItem from="1701670644411" duration="15380000" />
+      <workItem from="1701756239787" duration="16410000" />
+      <workItem from="1701843687824" duration="19139000" />
+      <workItem from="1701931712852" duration="19288000" />
+      <workItem from="1701963991879" duration="16000" />
+      <workItem from="1705038795853" duration="2907000" />
+      <workItem from="1705471271197" duration="18368000" />
+      <workItem from="1706508571749" duration="21207000" />
+      <workItem from="1707028896313" duration="9155000" />
+      <workItem from="1707112989791" duration="6717000" />
+      <workItem from="1707200823693" duration="19277000" />
+      <workItem from="1707302227007" duration="12538000" />
+      <workItem from="1707372723602" duration="7792000" />
+      <workItem from="1707719974809" duration="6761000" />
+      <workItem from="1707727478408" duration="13490000" />
+      <workItem from="1707829768109" duration="8792000" />
+      <workItem from="1708324335121" duration="3231000" />
+      <workItem from="1708409847160" duration="9995000" />
+      <workItem from="1708494893811" duration="10717000" />
+      <workItem from="1708598282298" duration="16411000" />
+      <workItem from="1708669934793" duration="1686000" />
+      <workItem from="1709442936222" duration="14488000" />
+      <workItem from="1709532836592" duration="20416000" />
+      <workItem from="1709617191973" duration="3463000" />
+      <workItem from="1709704263028" duration="19507000" />
+      <workItem from="1709793271674" duration="21394000" />
+      <workItem from="1709879391091" duration="20280000" />
+      <workItem from="1709963567816" duration="24430000" />
+      <workItem from="1710138329286" duration="21755000" />
+      <workItem from="1710248836110" duration="1081000" />
+      <workItem from="1710485626251" duration="1943000" />
+      <workItem from="1710917464224" duration="3712000" />
+      <workItem from="1712127824374" duration="19135000" />
+      <workItem from="1712217222707" duration="2243000" />
+      <workItem from="1712301554935" duration="26107000" />
+      <workItem from="1712382915978" duration="11313000" />
+      <workItem from="1712474618625" duration="2939000" />
+      <workItem from="1712581158685" duration="800000" />
+      <workItem from="1712649609297" duration="2364000" />
+      <workItem from="1712988977087" duration="1932000" />
+      <workItem from="1713080008584" duration="10670000" />
+      <workItem from="1713161719393" duration="8023000" />
+      <workItem from="1713249210216" duration="7134000" />
+      <workItem from="1713422552447" duration="867000" />
+      <workItem from="1713705848508" duration="1259000" />
+      <workItem from="1713777402351" duration="3288000" />
+      <workItem from="1713884050417" duration="717000" />
+      <workItem from="1714033990845" duration="3330000" />
+      <workItem from="1714114402874" duration="14135000" />
+      <workItem from="1714393793885" duration="1114000" />
+      <workItem from="1714632808855" duration="17956000" />
+      <workItem from="1714716680718" duration="31971000" />
+      <workItem from="1714786547671" duration="29660000" />
+      <workItem from="1715069888562" duration="3660000" />
+      <workItem from="1715148540000" duration="14356000" />
+      <workItem from="1715313712634" duration="27075000" />
+      <workItem from="1715413398585" duration="12808000" />
+      <workItem from="1715477504736" duration="4441000" />
+      <workItem from="1715485722682" duration="57000" />
+      <workItem from="1717146982183" duration="3463000" />
+      <workItem from="1718453741605" duration="5745000" />
+      <workItem from="1718520914807" duration="4936000" />
+      <workItem from="1718613871060" duration="2186000" />
+      <workItem from="1718697531777" duration="1300000" />
+      <workItem from="1718860170983" duration="3429000" />
+      <workItem from="1720018279630" duration="1570000" />
+      <workItem from="1720180456480" duration="3494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="JingQu_VUE" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
